@@ -1,0 +1,13 @@
+/PSD
+/.idea
+/lib/impact/
+/lib/weltmeister/
+/lib/game/
+/lib/plugins/font.js
+/lib/plugins/jsonloader.js
+/lib/plugins/webgl-2d.js
+/media/
+/weltmeister.html
+/webgl-2d.js
+/data/
+/index.html
