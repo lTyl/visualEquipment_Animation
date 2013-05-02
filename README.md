@@ -1,7 +1,7 @@
 # Live Demos
-http://labs.aurava.com/javascript/visualEquipment/
-http://labs.aurava.com/javascript/visualEquipment_Performance/
-http://labs.aurava.com/javascript/visualEquipment_Animation/
+1. http://labs.aurava.com/javascript/visualEquipment/
+2. http://labs.aurava.com/javascript/visualEquipment_Performance/
+3. http://labs.aurava.com/javascript/visualEquipment_Animation/
 
 
 ## _Usage_
