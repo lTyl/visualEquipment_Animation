@@ -1,7 +1,7 @@
 # Live Demos
-1. http://labs.aurava.com/javascript/visualEquipment/
-2. http://labs.aurava.com/javascript/visualEquipment_Performance/
-3. http://labs.aurava.com/javascript/visualEquipment_Animation/ (W/A/S/D to move)
+1. http://labs.tderen.com/javascript/visualEquipment/
+2. http://labs.tderen.com/javascript/visualEquipment_Performance/
+3. http://labs.tderen.com/javascript/visualEquipment_Animation/ (W/A/S/D to move)
 
 
 ## _Usage_
